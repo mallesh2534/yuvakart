@@ -1,0 +1,10 @@
+[
+    { "title": "Lenovo Laptops", "subtitle": "Now starting at 30000", "image":"../src/assets/images/Lenovo-12.jpg"},
+    { "title": "DELL Laptops", "subtitle": "Special for today", "image": "../src/assets/images/DELL-3.jpg" },
+    { "title": "ASUS Laptops ", "subtitle": "Special for today", "image": "../src/assets/images/Asus-2.jpg" },
+    { "title": "HP Laptops", "subtitle": "New Arrivals On Sale", "image": "../src/assets/images/HP-2.jpg" },
+    { "title": "Apple Laptops", "subtitle": "Now starting at 40000", "image": "../src/assets/images/APPLE-7.jpg" },    
+    { "title": "ACER Laptops", "subtitle": "Now starting at 17999", "image": "../src/assets/images/pic2.jpg" },
+    { "title": "SONY Laptops", "subtitle": "Now starting at 89000", "image": "../src/assets/images/pic7.jpg" },    
+    { "title": "SAMSUNG Laptops", "subtitle": "Now starting at 51799", "image": "../src/assets/images/samsung.jpg" }
+]
